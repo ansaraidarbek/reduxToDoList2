@@ -1,7 +1,7 @@
 {
   "name": "home-work63",
   "version": "0.1.0",
-  "homepage": "https://ansaraidarbek.github.io/reduxToDoList2/",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.3",
